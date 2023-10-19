@@ -28,3 +28,5 @@ C:\Users\N18Q13\proyecto-ventas\backend\ms-notificaciones\obj\Debug\net6.0\ref\m
 C:\Users\N18Q13\proyecto-ventas\backend\ms-notificaciones\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\N18Q13\proyecto-ventas\backend\ms-notificaciones\bin\Debug\net6.0\SendGrid.dll
 C:\Users\N18Q13\proyecto-ventas\backend\ms-notificaciones\bin\Debug\net6.0\StarkbankEcdsa.dll
+C:\Users\N18Q13\proyecto-ventas\backend\ms-notificaciones\bin\Debug\net6.0\DotNetEnv.dll
+C:\Users\N18Q13\proyecto-ventas\backend\ms-notificaciones\bin\Debug\net6.0\Sprache.dll

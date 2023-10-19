@@ -15,7 +15,7 @@ public class NotificacionesController : ControllerBase
 
         var apikey = Environment.GetEnvironmentVariable("SENDGRID_API_KEY");
         var client = new SendGridClient(apikey);
-        var from = new EmailAddress("jonathan.cadena28906@ucaldas.edu.co","Dennis Tisalema");
+        var from = new EmailAddress("jonathan.cadena28906@ucaldas.edu.co","Jonathan Cadena");
         var subject = datos.asuntoCorreo;
         var to = new EmailAddress(datos.correoDestino, datos.nombreDestino);
         var plainTextContent = "plain text content";
